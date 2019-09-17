@@ -1,6 +1,8 @@
-# Pandas Challenges
+# Dunder Data Challenges
 
-This repo contains problems and solutions to a variety of tasks in Pandas. Challenges will be announced on twitter [@DunderData][1] and given a week to complete. Best submissions will be added to the solutions notebook.
+This repo contains problems and detailed solutions to a variety of python, data science, and machine learning tasks. These challenges are announced on [my (Ted Petrou's) Twitter account][0].
 
+If you'd like to learn more, check out my online and live courses at [dunderdata.com][1].
 
-[1]: https://twitter.com/DunderData
+[0]: https://www.twitter.com/TedPetrou
+[1]: https://www.dunderdata.com
